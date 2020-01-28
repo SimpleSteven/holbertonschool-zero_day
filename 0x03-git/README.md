@@ -1,0 +1,1 @@
+This folder is for save the files of the git project
