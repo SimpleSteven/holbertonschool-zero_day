@@ -1,0 +1,1 @@
+In this project, we're going to learn how to create a repository in github, setup it and connect it with vagrant in linux.
