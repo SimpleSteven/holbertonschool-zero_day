@@ -1,5 +1,4 @@
 # holbertonschool-zero_day
 *My First Repository*
-Here should be the information about the Git.
-
-This project it's a little hard, it's great though.
+This Repository has been created for a Holberton Project
+And it has two folders, two REAMDEs and another file
